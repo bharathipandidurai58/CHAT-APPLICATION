@@ -28,6 +28,9 @@ In conclusion, the Real-Time Chat Application is a powerful example of modern fu
 
 ## OUTPUT
 
+<img width="1873" height="998" alt="Image" src="https://github.com/user-attachments/assets/70479934-ee38-47a3-b512-2b6d1d33e1df" />
+
+<img width="1869" height="980" alt="Image" src="https://github.com/user-attachments/assets/f1747b64-e359-45ed-a1da-66c29987fd9a" />
 
 
 
